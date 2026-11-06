@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm Toha 👋</h1>
 <p align="center">
-  <em>Student • Curious builder • Exploring technology and entrepreneurship</em>
+  <em>Student from Bangladesh · Curious builder · Exploring technology and entrepreneurship</em>
 </p>
 
 <p align="center">
@@ -10,27 +10,29 @@
     <img src="https://img.shields.io/badge/GitHub-HelloToha-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
   </a>
   <a href="https://typingtestbaselife.netlify.app/">
-    <img src="https://img.shields.io/badge/Live%20Project-Typing%20Speed%20Test-0A7EA4?style=for-the-badge" alt="Typing Speed Test" />
+    <img src="https://img.shields.io/badge/Live%20Demo-Typing%20Speed%20Test-0A7EA4?style=for-the-badge" alt="Typing Speed Test demo" />
+  </a>
+  <a href="https://linksnip.base44.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-LinkSnip-6C4CE3?style=for-the-badge" alt="LinkSnip demo" />
   </a>
 </p>
 
 ## About me
 
-I'm a student from Bangladesh interested in technology, problem-solving, and business. I enjoy turning ideas into small digital projects and learning by building.
+I'm a student from Bangladesh interested in technology, problem-solving, and business. I enjoy turning ideas into digital projects, experimenting with tools, and learning by building.
 
-- 🌱 Currently learning **HTML and Python**
-- 💡 Interested in **web projects, product ideas, and entrepreneurship**
-- 🧩 I enjoy experimenting with tools and improving projects through iteration
-- 🎯 Focused on building practical skills one project at a time
+- 🌱 Learning **HTML and Python**
+- 💡 Interested in **web development, product ideas, and entrepreneurship**
+- 🧩 I enjoy experimenting, solving problems, and improving projects through iteration
+- 🎯 Focused on developing practical skills one project at a time
 
 ## Projects
 
-| Project | What it is |
+| Project | Links |
 | --- | --- |
-| [Typing Speed Test](https://typingtestbaselife.netlify.app/) | A browser-based typing practice project |
-| [LinkSnip](https://linksnip.base44.app/) | A link utility project |
-| **TaskFlow** | A task-management project |
-| **Daily Quote** | A simple quote-focused project |
+| **Typing Speed Test** | [Live demo](https://typingtestbaselife.netlify.app/) |
+| **LinkSnip** | [Live demo](https://linksnip.base44.app/) · [GitHub repository](https://github.com/HelloToha/Linksnip) |
+| **HTML Practice** | [GitHub repository](https://github.com/HelloToha/htmlprob) |
 
 ## Currently exploring
 
@@ -38,7 +40,7 @@ I'm a student from Bangladesh interested in technology, problem-solving, and bus
 - Building useful, user-friendly web experiences
 - Product thinking and business fundamentals
 
-## GitHub
+## GitHub at a glance
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HelloToha&show_icons=true&hide_border=true&theme=transparent" height="165" alt="GitHub statistics" />
