@@ -30,7 +30,7 @@ I'm a student from Bangladesh interested in technology, problem-solving, and bus
 
 | Project | Links |
 | --- | --- |
-| **Typing Speed Test** | [Live demo](https://typingtestbaselife.netlify.app/) |
+| **Typing Speed Test** | [Live demo](https://type-lab.netlify.app/) |
 | **LinkSnip** | [Live demo](https://linksnip.base44.app/) · [GitHub repository](https://github.com/HelloToha/Linksnip) |
 | **HTML Practice** | [GitHub repository](https://github.com/HelloToha/htmlprob) |
 
