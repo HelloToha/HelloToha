@@ -21,6 +21,9 @@
   <a href="https://get-taskflow.base44.app/">
     <img src="https://img.shields.io/badge/Live%20Demo-TaskFlow-5B65C9?style=for-the-badge" alt="TaskFlow demo" />
   </a>
+  <a href="https://corequote.netlify.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-CoreQuote-C18B35?style=for-the-badge" alt="CoreQuote demo" />
+  </a>
 </p>
 
 ## About me
@@ -40,6 +43,7 @@ I'm a student from Bangladesh interested in technology, problem-solving, and bus
 | **LinkSnip** | A link utility project | [Live demo](https://linksnip.base44.app/) · [GitHub repository](https://github.com/HelloToha/Linksnip) |
 | **Wanderly** | An AI-powered trip planner | [Live demo](https://wanderlytrip.base44.app/) |
 | **TaskFlow** | A task management app | [Live demo](https://get-taskflow.base44.app/) |
+| **CoreQuote** | A quote-focused web project | [Live demo](https://corequote.netlify.app/) |
 
 ## Currently exploring
 
