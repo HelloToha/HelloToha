@@ -9,11 +9,17 @@
   <a href="https://github.com/HelloToha">
     <img src="https://img.shields.io/badge/GitHub-HelloToha-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
   </a>
-  <a href="https://typingtestbaselife.netlify.app/">
-    <img src="https://img.shields.io/badge/Live%20Demo-Typing%20Speed%20Test-0A7EA4?style=for-the-badge" alt="Typing Speed Test demo" />
+  <a href="https://type-lab.netlify.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-Type%20Lab-0A7EA4?style=for-the-badge" alt="Type Lab demo" />
   </a>
   <a href="https://linksnip.base44.app/">
     <img src="https://img.shields.io/badge/Live%20Demo-LinkSnip-6C4CE3?style=for-the-badge" alt="LinkSnip demo" />
+  </a>
+  <a href="https://wanderlytrip.base44.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-Wanderly-2E8B75?style=for-the-badge" alt="Wanderly demo" />
+  </a>
+  <a href="https://get-taskflow.base44.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-TaskFlow-5B65C9?style=for-the-badge" alt="TaskFlow demo" />
   </a>
 </p>
 
@@ -28,11 +34,12 @@ I'm a student from Bangladesh interested in technology, problem-solving, and bus
 
 ## Projects
 
-| Project | Links |
-| --- | --- |
-| **Typing Speed Test** | [Live demo](https://type-lab.netlify.app/) |
-| **LinkSnip** | [Live demo](https://linksnip.base44.app/) · [GitHub repository](https://github.com/HelloToha/Linksnip) |
-| **HTML Practice** | [GitHub repository](https://github.com/HelloToha/htmlprob) |
+| Project | Description | Links |
+| --- | --- | --- |
+| **Type Lab** | A web-based typing practice experience | [Live demo](https://type-lab.netlify.app/) |
+| **LinkSnip** | A link utility project | [Live demo](https://linksnip.base44.app/) · [GitHub repository](https://github.com/HelloToha/Linksnip) |
+| **Wanderly** | An AI-powered trip planner | [Live demo](https://wanderlytrip.base44.app/) |
+| **TaskFlow** | A task management app | [Live demo](https://get-taskflow.base44.app/) |
 
 ## Currently exploring
 
